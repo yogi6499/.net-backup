@@ -1,0 +1,6 @@
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSyatem.EntityLayer\bin\Debug\EmployeeManagementSyatem.EntityLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSyatem.EntityLayer\bin\Debug\EmployeeManagementSyatem.EntityLayer.pdb
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSyatem.EntityLayer\obj\Debug\EmployeeManagementSyatem.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSyatem.EntityLayer\obj\Debug\EmployeeManagementSyatem.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSyatem.EntityLayer\obj\Debug\EmployeeManagementSyatem.EntityLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSyatem.EntityLayer\obj\Debug\EmployeeManagementSyatem.EntityLayer.pdb

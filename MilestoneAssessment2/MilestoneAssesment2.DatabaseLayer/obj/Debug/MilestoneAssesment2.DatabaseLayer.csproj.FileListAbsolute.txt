@@ -1,0 +1,11 @@
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\bin\Debug\MilestoneAssesment2.DatabaseLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\bin\Debug\MilestoneAssesment2.DatabaseLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\bin\Debug\MilestoneAssesment2.EntityLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\bin\Debug\MilestoneAssesment2.EntityLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\obj\Debug\MilestoneAssesment2.DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\obj\Debug\MilestoneAssesment2.DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\obj\Debug\MilestoneAssesment2.DatabaseLayer.csproj.CopyComplete
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\obj\Debug\MilestoneAssesment2.DatabaseLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\obj\Debug\MilestoneAssesment2.DatabaseLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\bin\Debug\MilestoneAssesment2.CustomExceptionLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.DatabaseLayer\bin\Debug\MilestoneAssesment2.CustomExceptionLayer.pdb

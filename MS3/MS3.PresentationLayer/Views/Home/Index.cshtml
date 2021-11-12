@@ -1,0 +1,22 @@
+﻿@model MS3.PresentationLayer.Models.Admin
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Admin Login</h2>
+@using (@Html.BeginForm())
+{
+    <div>
+        User Name:@Html.EditorFor(m => m.UsernameTest)
+    </div>
+    <br />
+    <div>
+        Password:@Html.EditorFor(m => m.PasswordTest)
+    </div>
+    <div>
+        <input type="submit" value="Login"/>
+    </div>
+
+}
+

@@ -1,0 +1,11 @@
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CopyComplete
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\postb\source\repos\TDD_MSTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

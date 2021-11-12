@@ -1,0 +1,8 @@
+C:\Users\postb\source\repos\MS3\MS3.Database\bin\Debug\MS3.Database.dll
+C:\Users\postb\source\repos\MS3\MS3.Database\bin\Debug\MS3.Database.pdb
+C:\Users\postb\source\repos\MS3\MS3.Database\bin\Debug\MS3.Entity.dll
+C:\Users\postb\source\repos\MS3\MS3.Database\bin\Debug\MS3.Entity.pdb
+C:\Users\postb\source\repos\MS3\MS3.Database\obj\Debug\MS3.Database.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\MS3\MS3.Database\obj\Debug\MS3.Database.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\MS3\MS3.Database\obj\Debug\MS3.Database.dll
+C:\Users\postb\source\repos\MS3\MS3.Database\obj\Debug\MS3.Database.pdb

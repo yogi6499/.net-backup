@@ -1,0 +1,7 @@
+C:\Users\postb\source\repos\EnumExample\IEnumerableProject\bin\Debug\IEnumerableProject.exe.config
+C:\Users\postb\source\repos\EnumExample\IEnumerableProject\bin\Debug\IEnumerableProject.exe
+C:\Users\postb\source\repos\EnumExample\IEnumerableProject\bin\Debug\IEnumerableProject.pdb
+C:\Users\postb\source\repos\EnumExample\IEnumerableProject\obj\Debug\IEnumerableProject.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\EnumExample\IEnumerableProject\obj\Debug\IEnumerableProject.exe
+C:\Users\postb\source\repos\EnumExample\IEnumerableProject\obj\Debug\IEnumerableProject.pdb
+C:\Users\postb\source\repos\EnumExample\IEnumerableProject\obj\Debug\IEnumerableProject.csproj.AssemblyReference.cache

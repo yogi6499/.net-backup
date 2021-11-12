@@ -1,0 +1,6 @@
+C:\Users\postb\source\repos\Csharp-Assignment\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\postb\source\repos\Csharp-Assignment\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\postb\source\repos\Csharp-Assignment\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\postb\source\repos\Csharp-Assignment\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\Csharp-Assignment\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\postb\source\repos\Csharp-Assignment\Assignment3\obj\Debug\Assignment3.pdb

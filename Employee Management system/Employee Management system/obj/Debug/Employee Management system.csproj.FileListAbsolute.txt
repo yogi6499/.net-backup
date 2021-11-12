@@ -1,0 +1,7 @@
+C:\Users\postb\source\repos\Employee Management system\Employee Management system\bin\Debug\Employee Management system.exe.config
+C:\Users\postb\source\repos\Employee Management system\Employee Management system\bin\Debug\Employee Management system.exe
+C:\Users\postb\source\repos\Employee Management system\Employee Management system\bin\Debug\Employee Management system.pdb
+C:\Users\postb\source\repos\Employee Management system\Employee Management system\obj\Debug\Employee Management system.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\Employee Management system\Employee Management system\obj\Debug\Employee Management system.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\Employee Management system\Employee Management system\obj\Debug\Employee Management system.exe
+C:\Users\postb\source\repos\Employee Management system\Employee Management system\obj\Debug\Employee Management system.pdb

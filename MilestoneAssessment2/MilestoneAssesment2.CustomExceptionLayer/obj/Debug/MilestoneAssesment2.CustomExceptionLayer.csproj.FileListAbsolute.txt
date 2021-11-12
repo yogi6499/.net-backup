@@ -1,0 +1,6 @@
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.CustomExceptionLayer\obj\Debug\MilestoneAssesment2.CustomExceptionLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.CustomExceptionLayer\obj\Debug\MilestoneAssesment2.CustomExceptionLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.CustomExceptionLayer\bin\Debug\MilestoneAssesment2.CustomExceptionLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.CustomExceptionLayer\bin\Debug\MilestoneAssesment2.CustomExceptionLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.CustomExceptionLayer\obj\Debug\MilestoneAssesment2.CustomExceptionLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.CustomExceptionLayer\obj\Debug\MilestoneAssesment2.CustomExceptionLayer.pdb

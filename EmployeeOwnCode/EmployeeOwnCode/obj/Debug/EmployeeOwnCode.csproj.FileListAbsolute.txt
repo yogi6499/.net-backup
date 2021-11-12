@@ -1,0 +1,7 @@
+C:\Users\postb\source\repos\EmployeeOwnCode\EmployeeOwnCode\bin\Debug\EmployeeOwnCode.exe.config
+C:\Users\postb\source\repos\EmployeeOwnCode\EmployeeOwnCode\bin\Debug\EmployeeOwnCode.exe
+C:\Users\postb\source\repos\EmployeeOwnCode\EmployeeOwnCode\bin\Debug\EmployeeOwnCode.pdb
+C:\Users\postb\source\repos\EmployeeOwnCode\EmployeeOwnCode\obj\Debug\EmployeeOwnCode.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\EmployeeOwnCode\EmployeeOwnCode\obj\Debug\EmployeeOwnCode.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\EmployeeOwnCode\EmployeeOwnCode\obj\Debug\EmployeeOwnCode.exe
+C:\Users\postb\source\repos\EmployeeOwnCode\EmployeeOwnCode\obj\Debug\EmployeeOwnCode.pdb

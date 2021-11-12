@@ -1,0 +1,14 @@
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSystem.PresentationLayer.exe.config
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSystem.PresentationLayer.exe
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSystem.PresentationLayer.pdb
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSyatem.EntityLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSystem.BusinessLogicLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSystem.DatabaseLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSyatem.EntityLayer.pdb
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSystem.BusinessLogicLayer.pdb
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\bin\Debug\EmployeeManagementSystem.DatabaseLayer.pdb
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\obj\Debug\EmployeeManagementSystem.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\obj\Debug\EmployeeManagementSystem.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\obj\Debug\EmployeeManagementSystem.PresentationLayer.csproj.CopyComplete
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\obj\Debug\EmployeeManagementSystem.PresentationLayer.exe
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.PresentationLayer\obj\Debug\EmployeeManagementSystem.PresentationLayer.pdb

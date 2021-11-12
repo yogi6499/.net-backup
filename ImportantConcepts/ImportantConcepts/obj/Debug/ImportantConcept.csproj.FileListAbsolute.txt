@@ -1,0 +1,7 @@
+C:\Users\postb\source\repos\ImportantConcepts\ImportantConcepts\bin\Debug\ImportantConcepts.exe.config
+C:\Users\postb\source\repos\ImportantConcepts\ImportantConcepts\bin\Debug\ImportantConcepts.exe
+C:\Users\postb\source\repos\ImportantConcepts\ImportantConcepts\bin\Debug\ImportantConcepts.pdb
+C:\Users\postb\source\repos\ImportantConcepts\ImportantConcepts\obj\Debug\ImportantConcept.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\ImportantConcepts\ImportantConcepts\obj\Debug\ImportantConcept.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\ImportantConcepts\ImportantConcepts\obj\Debug\ImportantConcepts.exe
+C:\Users\postb\source\repos\ImportantConcepts\ImportantConcepts\obj\Debug\ImportantConcepts.pdb

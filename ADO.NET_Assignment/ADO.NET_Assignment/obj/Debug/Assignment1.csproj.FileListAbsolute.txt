@@ -1,0 +1,7 @@
+C:\Users\postb\source\repos\ADO.NET_Assignment\ADO.NET_Assignment\bin\Debug\ADO.NET_Assignment.exe.config
+C:\Users\postb\source\repos\ADO.NET_Assignment\ADO.NET_Assignment\bin\Debug\ADO.NET_Assignment.exe
+C:\Users\postb\source\repos\ADO.NET_Assignment\ADO.NET_Assignment\bin\Debug\ADO.NET_Assignment.pdb
+C:\Users\postb\source\repos\ADO.NET_Assignment\ADO.NET_Assignment\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\ADO.NET_Assignment\ADO.NET_Assignment\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\ADO.NET_Assignment\ADO.NET_Assignment\obj\Debug\ADO.NET_Assignment.exe
+C:\Users\postb\source\repos\ADO.NET_Assignment\ADO.NET_Assignment\obj\Debug\ADO.NET_Assignment.pdb

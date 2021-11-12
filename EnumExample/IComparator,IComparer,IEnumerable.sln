@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparator IComparer", "EnumExample\IComparator IComparer.csproj", "{06045C81-611E-49C9-8B15-F31CE14B2BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableProject", "IEnumerableProject\IEnumerableProject.csproj", "{11F3D638-3B90-48DE-B1F1-02649ACCA5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06045C81-611E-49C9-8B15-F31CE14B2BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06045C81-611E-49C9-8B15-F31CE14B2BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06045C81-611E-49C9-8B15-F31CE14B2BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06045C81-611E-49C9-8B15-F31CE14B2BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F3D638-3B90-48DE-B1F1-02649ACCA5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F3D638-3B90-48DE-B1F1-02649ACCA5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F3D638-3B90-48DE-B1F1-02649ACCA5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F3D638-3B90-48DE-B1F1-02649ACCA5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFDAD093-8880-41D9-8A80-67F8B53503DE}
+	EndGlobalSection
+EndGlobal

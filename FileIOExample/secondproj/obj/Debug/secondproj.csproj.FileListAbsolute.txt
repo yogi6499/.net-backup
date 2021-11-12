@@ -1,0 +1,7 @@
+C:\Users\postb\source\repos\FileIOExample\secondproj\bin\Debug\secondproj.exe.config
+C:\Users\postb\source\repos\FileIOExample\secondproj\bin\Debug\secondproj.exe
+C:\Users\postb\source\repos\FileIOExample\secondproj\bin\Debug\secondproj.pdb
+C:\Users\postb\source\repos\FileIOExample\secondproj\obj\Debug\secondproj.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\FileIOExample\secondproj\obj\Debug\secondproj.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\FileIOExample\secondproj\obj\Debug\secondproj.exe
+C:\Users\postb\source\repos\FileIOExample\secondproj\obj\Debug\secondproj.pdb

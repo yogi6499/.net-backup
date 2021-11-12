@@ -1,0 +1,14 @@
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\obj\Debug\SchoolManagementSystem.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\obj\Debug\SchoolManagementSystem.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\SchoolManagementSystem.PresentationLayer.exe.config
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\SchoolManagementSystem.PresentationLayer.exe
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\SchoolManagementSystem.PresentationLayer.pdb
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\SchoolManagementSystem.EntityLayer.dll
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\StudentManagementSystem.BuisnessLogicLayer.dll
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\StudentManagementSystem.DatabaseLayer.dll
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\SchoolManagementSystem.EntityLayer.pdb
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\StudentManagementSystem.BuisnessLogicLayer.pdb
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\bin\Debug\StudentManagementSystem.DatabaseLayer.pdb
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\obj\Debug\SchoolManagementSystem.PresentationLayer.csproj.CopyComplete
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\obj\Debug\SchoolManagementSystem.PresentationLayer.exe
+C:\Users\postb\source\repos\SchoolManagementSystem\SchoolManagementSystem.PresentationLayer\obj\Debug\SchoolManagementSystem.PresentationLayer.pdb

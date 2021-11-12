@@ -1,0 +1,11 @@
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\bin\Debug\StudentManagementSystem.BuisnessLogicLayer.dll
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\bin\Debug\StudentManagementSystem.BuisnessLogicLayer.pdb
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\bin\Debug\SchoolManagementSystem.EntityLayer.dll
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\bin\Debug\StudentManagementSystem.DatabaseLayer.dll
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\bin\Debug\SchoolManagementSystem.EntityLayer.pdb
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\bin\Debug\StudentManagementSystem.DatabaseLayer.pdb
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\obj\Debug\StudentManagementSystem.BuisnessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\obj\Debug\StudentManagementSystem.BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\obj\Debug\StudentManagementSystem.BuisnessLogicLayer.csproj.CopyComplete
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\obj\Debug\StudentManagementSystem.BuisnessLogicLayer.dll
+C:\Users\postb\source\repos\SchoolManagementSystem\StudentManagementSystem.BuisnessLogicLayer\obj\Debug\StudentManagementSystem.BuisnessLogicLayer.pdb

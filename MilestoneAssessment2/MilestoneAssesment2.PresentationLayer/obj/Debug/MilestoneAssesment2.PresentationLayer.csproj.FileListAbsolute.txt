@@ -1,0 +1,16 @@
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.PresentationLayer.exe.config
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.PresentationLayer.exe
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.PresentationLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.BuisnessManagementLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.EntityLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.DatabaseLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.BuisnessManagementLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.EntityLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.DatabaseLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\obj\Debug\MilestoneAssesment2.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\obj\Debug\MilestoneAssesment2.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\obj\Debug\MilestoneAssesment2.PresentationLayer.csproj.CopyComplete
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\obj\Debug\MilestoneAssesment2.PresentationLayer.exe
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\obj\Debug\MilestoneAssesment2.PresentationLayer.pdb
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.CustomExceptionLayer.dll
+C:\Users\postb\source\repos\MilestoneAssessment2\MilestoneAssesment2.PresentationLayer\bin\Debug\MilestoneAssesment2.CustomExceptionLayer.pdb

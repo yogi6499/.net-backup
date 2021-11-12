@@ -1,0 +1,41 @@
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\Intern Salary.exe.config
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\Intern Salary.exe
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\Intern Salary.pdb
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\obj\Debug\Intern Salary.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\obj\Debug\Intern Salary.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\obj\Debug\Intern Salary.exe
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\obj\Debug\Intern Salary.pdb
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\ExcelMapper.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\NPOI.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\NPOI.OOXML.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Buffers.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Memory.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Text.Json.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.ValueTuple.dll
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\ExcelMapper.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\NPOI.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\NPOI.OOXML.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Buffers.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Memory.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Text.Json.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\bin\Debug\System.ValueTuple.xml
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\obj\Debug\Intern Salary.csproj.CopyComplete
+C:\Users\postb\source\repos\Intern Salary\Intern Salary\obj\Debug\Intern Salary.csproj.ResolveComReference.cache

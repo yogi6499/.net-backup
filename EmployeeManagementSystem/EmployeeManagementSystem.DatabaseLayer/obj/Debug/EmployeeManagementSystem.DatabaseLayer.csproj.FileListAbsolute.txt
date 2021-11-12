@@ -1,0 +1,9 @@
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\bin\Debug\EmployeeManagementSystem.DatabaseLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\bin\Debug\EmployeeManagementSystem.DatabaseLayer.pdb
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\bin\Debug\EmployeeManagementSyatem.EntityLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\bin\Debug\EmployeeManagementSyatem.EntityLayer.pdb
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\obj\Debug\EmployeeManagementSystem.DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\obj\Debug\EmployeeManagementSystem.DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\obj\Debug\EmployeeManagementSystem.DatabaseLayer.csproj.CopyComplete
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\obj\Debug\EmployeeManagementSystem.DatabaseLayer.dll
+C:\Users\postb\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.DatabaseLayer\obj\Debug\EmployeeManagementSystem.DatabaseLayer.pdb

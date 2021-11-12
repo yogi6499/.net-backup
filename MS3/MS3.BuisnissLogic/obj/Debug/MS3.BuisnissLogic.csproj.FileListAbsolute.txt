@@ -1,0 +1,11 @@
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\obj\Debug\MS3.BuisnissLogic.csproj.AssemblyReference.cache
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\obj\Debug\MS3.BuisnissLogic.csproj.CoreCompileInputs.cache
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\bin\Debug\MS3.BuisnissLogic.dll
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\bin\Debug\MS3.BuisnissLogic.pdb
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\bin\Debug\MS3.Database.dll
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\bin\Debug\MS3.Entity.dll
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\bin\Debug\MS3.Database.pdb
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\bin\Debug\MS3.Entity.pdb
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\obj\Debug\MS3.BuisnissLogic.csproj.CopyComplete
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\obj\Debug\MS3.BuisnissLogic.dll
+C:\Users\postb\source\repos\MS3\MS3.BuisnissLogic\obj\Debug\MS3.BuisnissLogic.pdb
